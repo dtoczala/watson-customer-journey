@@ -2,7 +2,7 @@
 This is meant to tell a story - a story about how typical customers discover, learn, and consume our Data and AI offerings. It should provide guidance and templates for typical documents and collateral that customers will find useful.  Do you have questions about typical use cases?  About good deployment models?  Others have asked these same questions before, why not learn from their experiences?  Life is a journey - your adoption of Watson and artificial intelligence is part of YOUR journey.
 
 # Contents
-- **[Discovery]()**
+- **[Discovering AI]()**
   - [Typical Use Cases]()
   - [Watson Cloud Services]()
 - **[The Experiment]()**
@@ -19,8 +19,8 @@ This is meant to tell a story - a story about how typical customers discover, le
   - [Centers of Excellence]()
 
 ---
-# Discovery
-xxx
+# Discovering AI
+This is the point where an individual or an organization is first getting introduced to what AI can do to help solve their issues and business challenges.  They are familiar with many different consumer level AI technology, but they don't understand how various different technologies are combined to make some of these things possible.
 
 ## Typical Use Cases
 xxx

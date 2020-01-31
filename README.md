@@ -26,7 +26,7 @@ This is the point where an individual or an organization is first getting introd
 xxx
 
 ## Watson Cloud Services
-xxx
+There are a lot of different Watson services on the IBM Cloud.  Here are some of the services, and some good links for those services.
 
 # The Experiment
 xxx

@@ -56,7 +56,10 @@ xxx
 xxx
 
 ## Monitoring and Scaling
-xxx
+So now that you have a killer application that uses AI, you need to monitor it and scale it out for more widespread and heavy-duty usage.  This will probably mean that you will need to use containers and some sort of solution like OpenShift or Kubernetes.
+
+### Education Links
+- [Simple Hands-on Kubernetes Deploy from GitHub](https://github.com/jamesbeltonIBM/kubes-my-health) - in this hands-on guide, James Belton walks you through the process of deploying a simple application from GitHub into a Kubernetes cluster on the IBM Cloud.
 
 ## Additional Projects
 xxx
